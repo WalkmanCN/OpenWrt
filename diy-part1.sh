@@ -15,6 +15,6 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-git clone -b master https://github.com/vernesong/OpenClash.git package/others/OpenClash
+#git clone -b master https://github.com/vernesong/OpenClash.git package/others/OpenClash
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/others/luci-app-smartdns
 git clone https://github.com/fw876/helloworld.git package/others/helloworld
